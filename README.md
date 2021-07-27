@@ -2,7 +2,7 @@
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning Domotica, C++, Arduino, Blasberry, JavaScript
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me Junior
+- 📫 How to reach me egiannoni@frba.utn.edu.ar
 
 <!---
 ezequielgiannoni/ezequielgiannoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
