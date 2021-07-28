@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezequielgiannoni
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning Domotica, C++, Arduino, Blasberry, JavaScript
-- 💞️ I’m looking to collaborate on DevOps
+- 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me egiannoni@frba.utn.edu.ar
 
 <!---
