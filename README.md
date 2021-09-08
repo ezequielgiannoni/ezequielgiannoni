@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Giannoni Ezequiel.
-- 👀 I’m interested in IoT, IA, Domotica & Designer.
+- 👀 I’m interested in IoT, IA, Domotica & Design.
 - 🌱 I’m currently learning C++, JavaScript, Bulma.
 - 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me egiannoni@frba.utn.edu.ar
