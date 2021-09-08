@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, IA, Domotica & Design.
 - 🌱 I’m currently learning C++, JavaScript, Bulma.
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me egiannoni@frba.utn.edu.ar
+- 📫 How to reach me egiannoni95@gmail.com
 
 <!---
 ezequielgiannoni/ezequielgiannoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
